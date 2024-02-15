@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "name": "om",
+            "age": 25
+        },
+        {
+            "name": "ram",
+            "age": 12
+        },
+        {
+            "name": "batmen",
+            "age": 56
+        }
+    ],
+    "blogs": [
+        {
+            "title": "learn node",
+            "body": "first time"
+        },
+        {
+            "title": "javascript",
+            "body": "new chap"
+        }
+    ]
+}
